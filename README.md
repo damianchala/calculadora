@@ -1,2 +1,2 @@
 # calculadora
-aplicacion creada enfocada en aprender sobre las aplicaciones moviles
+aplicacion creada en el enfoque de aprender sobre las aplicaciones moviles
